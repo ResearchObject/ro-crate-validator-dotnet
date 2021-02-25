@@ -1,3 +1,6 @@
 [submodule "json-everything"]
 	path = json-everything
 	url = https://github.com/gregsdennis/json-everything.git
+[submodule "SevenZipSharp"]
+	path = SevenZipSharp
+	url = https://github.com/squid-box/SevenZipSharp.git
